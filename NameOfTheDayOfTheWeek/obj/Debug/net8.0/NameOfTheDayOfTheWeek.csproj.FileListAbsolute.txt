@@ -1,0 +1,14 @@
+C:\Users\38093\source\repos\Program\NameOfTheDayOfTheWeek\bin\Debug\net8.0\NameOfTheDayOfTheWeek.exe
+C:\Users\38093\source\repos\Program\NameOfTheDayOfTheWeek\bin\Debug\net8.0\NameOfTheDayOfTheWeek.deps.json
+C:\Users\38093\source\repos\Program\NameOfTheDayOfTheWeek\bin\Debug\net8.0\NameOfTheDayOfTheWeek.runtimeconfig.json
+C:\Users\38093\source\repos\Program\NameOfTheDayOfTheWeek\bin\Debug\net8.0\NameOfTheDayOfTheWeek.dll
+C:\Users\38093\source\repos\Program\NameOfTheDayOfTheWeek\bin\Debug\net8.0\NameOfTheDayOfTheWeek.pdb
+C:\Users\38093\source\repos\Program\NameOfTheDayOfTheWeek\obj\Debug\net8.0\NameOfTheDayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38093\source\repos\Program\NameOfTheDayOfTheWeek\obj\Debug\net8.0\NameOfTheDayOfTheWeek.AssemblyInfoInputs.cache
+C:\Users\38093\source\repos\Program\NameOfTheDayOfTheWeek\obj\Debug\net8.0\NameOfTheDayOfTheWeek.AssemblyInfo.cs
+C:\Users\38093\source\repos\Program\NameOfTheDayOfTheWeek\obj\Debug\net8.0\NameOfTheDayOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\38093\source\repos\Program\NameOfTheDayOfTheWeek\obj\Debug\net8.0\NameOfTheDayOfTheWeek.dll
+C:\Users\38093\source\repos\Program\NameOfTheDayOfTheWeek\obj\Debug\net8.0\refint\NameOfTheDayOfTheWeek.dll
+C:\Users\38093\source\repos\Program\NameOfTheDayOfTheWeek\obj\Debug\net8.0\NameOfTheDayOfTheWeek.pdb
+C:\Users\38093\source\repos\Program\NameOfTheDayOfTheWeek\obj\Debug\net8.0\NameOfTheDayOfTheWeek.genruntimeconfig.cache
+C:\Users\38093\source\repos\Program\NameOfTheDayOfTheWeek\obj\Debug\net8.0\ref\NameOfTheDayOfTheWeek.dll
