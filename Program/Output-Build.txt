@@ -1,0 +1,6 @@
+﻿Build started at 0:40...
+1>------ Build started: Project: Program, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>Program -> C:\Users\38093\source\repos\Program\Program\bin\Debug\net8.0\Program.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 0:40 and took 01,148 seconds ==========
