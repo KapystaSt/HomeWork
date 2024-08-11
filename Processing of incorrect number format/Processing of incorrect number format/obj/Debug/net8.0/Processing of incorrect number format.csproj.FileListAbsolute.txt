@@ -1,0 +1,14 @@
+C:\Users\38093\source\repos\Processing of incorrect number format\Processing of incorrect number format\bin\Debug\net8.0\Processing of incorrect number format.exe
+C:\Users\38093\source\repos\Processing of incorrect number format\Processing of incorrect number format\bin\Debug\net8.0\Processing of incorrect number format.deps.json
+C:\Users\38093\source\repos\Processing of incorrect number format\Processing of incorrect number format\bin\Debug\net8.0\Processing of incorrect number format.runtimeconfig.json
+C:\Users\38093\source\repos\Processing of incorrect number format\Processing of incorrect number format\bin\Debug\net8.0\Processing of incorrect number format.dll
+C:\Users\38093\source\repos\Processing of incorrect number format\Processing of incorrect number format\bin\Debug\net8.0\Processing of incorrect number format.pdb
+C:\Users\38093\source\repos\Processing of incorrect number format\Processing of incorrect number format\obj\Debug\net8.0\Processing of incorrect number format.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38093\source\repos\Processing of incorrect number format\Processing of incorrect number format\obj\Debug\net8.0\Processing of incorrect number format.AssemblyInfoInputs.cache
+C:\Users\38093\source\repos\Processing of incorrect number format\Processing of incorrect number format\obj\Debug\net8.0\Processing of incorrect number format.AssemblyInfo.cs
+C:\Users\38093\source\repos\Processing of incorrect number format\Processing of incorrect number format\obj\Debug\net8.0\Processing of incorrect number format.csproj.CoreCompileInputs.cache
+C:\Users\38093\source\repos\Processing of incorrect number format\Processing of incorrect number format\obj\Debug\net8.0\Processing of incorrect number format.dll
+C:\Users\38093\source\repos\Processing of incorrect number format\Processing of incorrect number format\obj\Debug\net8.0\refint\Processing of incorrect number format.dll
+C:\Users\38093\source\repos\Processing of incorrect number format\Processing of incorrect number format\obj\Debug\net8.0\Processing of incorrect number format.pdb
+C:\Users\38093\source\repos\Processing of incorrect number format\Processing of incorrect number format\obj\Debug\net8.0\Processing of incorrect number format.genruntimeconfig.cache
+C:\Users\38093\source\repos\Processing of incorrect number format\Processing of incorrect number format\obj\Debug\net8.0\ref\Processing of incorrect number format.dll
