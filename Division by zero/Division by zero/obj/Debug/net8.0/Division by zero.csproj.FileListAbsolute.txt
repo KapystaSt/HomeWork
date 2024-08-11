@@ -1,0 +1,14 @@
+C:\Users\38093\source\repos\Division by zero\Division by zero\obj\Debug\net8.0\Division by zero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38093\source\repos\Division by zero\Division by zero\obj\Debug\net8.0\Division by zero.AssemblyInfoInputs.cache
+C:\Users\38093\source\repos\Division by zero\Division by zero\obj\Debug\net8.0\Division by zero.AssemblyInfo.cs
+C:\Users\38093\source\repos\Division by zero\Division by zero\obj\Debug\net8.0\Division by zero.csproj.CoreCompileInputs.cache
+C:\Users\38093\source\repos\Division by zero\Division by zero\bin\Debug\net8.0\Division by zero.exe
+C:\Users\38093\source\repos\Division by zero\Division by zero\bin\Debug\net8.0\Division by zero.deps.json
+C:\Users\38093\source\repos\Division by zero\Division by zero\bin\Debug\net8.0\Division by zero.runtimeconfig.json
+C:\Users\38093\source\repos\Division by zero\Division by zero\bin\Debug\net8.0\Division by zero.dll
+C:\Users\38093\source\repos\Division by zero\Division by zero\bin\Debug\net8.0\Division by zero.pdb
+C:\Users\38093\source\repos\Division by zero\Division by zero\obj\Debug\net8.0\Division by zero.dll
+C:\Users\38093\source\repos\Division by zero\Division by zero\obj\Debug\net8.0\refint\Division by zero.dll
+C:\Users\38093\source\repos\Division by zero\Division by zero\obj\Debug\net8.0\Division by zero.pdb
+C:\Users\38093\source\repos\Division by zero\Division by zero\obj\Debug\net8.0\Division by zero.genruntimeconfig.cache
+C:\Users\38093\source\repos\Division by zero\Division by zero\obj\Debug\net8.0\ref\Division by zero.dll
