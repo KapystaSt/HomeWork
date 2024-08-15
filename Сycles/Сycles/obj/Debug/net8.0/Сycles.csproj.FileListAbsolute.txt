@@ -1,0 +1,14 @@
+C:\Users\38093\source\repos\Сycles\Сycles\bin\Debug\net8.0\Сycles.exe
+C:\Users\38093\source\repos\Сycles\Сycles\bin\Debug\net8.0\Сycles.deps.json
+C:\Users\38093\source\repos\Сycles\Сycles\bin\Debug\net8.0\Сycles.runtimeconfig.json
+C:\Users\38093\source\repos\Сycles\Сycles\bin\Debug\net8.0\Сycles.dll
+C:\Users\38093\source\repos\Сycles\Сycles\bin\Debug\net8.0\Сycles.pdb
+C:\Users\38093\source\repos\Сycles\Сycles\obj\Debug\net8.0\Сycles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38093\source\repos\Сycles\Сycles\obj\Debug\net8.0\Сycles.AssemblyInfoInputs.cache
+C:\Users\38093\source\repos\Сycles\Сycles\obj\Debug\net8.0\Сycles.AssemblyInfo.cs
+C:\Users\38093\source\repos\Сycles\Сycles\obj\Debug\net8.0\Сycles.csproj.CoreCompileInputs.cache
+C:\Users\38093\source\repos\Сycles\Сycles\obj\Debug\net8.0\Сycles.dll
+C:\Users\38093\source\repos\Сycles\Сycles\obj\Debug\net8.0\refint\Сycles.dll
+C:\Users\38093\source\repos\Сycles\Сycles\obj\Debug\net8.0\Сycles.pdb
+C:\Users\38093\source\repos\Сycles\Сycles\obj\Debug\net8.0\Сycles.genruntimeconfig.cache
+C:\Users\38093\source\repos\Сycles\Сycles\obj\Debug\net8.0\ref\Сycles.dll
