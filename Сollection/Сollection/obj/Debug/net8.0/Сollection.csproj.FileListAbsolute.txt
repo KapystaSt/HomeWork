@@ -1,0 +1,14 @@
+C:\Users\38093\source\repos\Сollection\Сollection\bin\Debug\net8.0\Сollection.exe
+C:\Users\38093\source\repos\Сollection\Сollection\bin\Debug\net8.0\Сollection.deps.json
+C:\Users\38093\source\repos\Сollection\Сollection\bin\Debug\net8.0\Сollection.runtimeconfig.json
+C:\Users\38093\source\repos\Сollection\Сollection\bin\Debug\net8.0\Сollection.dll
+C:\Users\38093\source\repos\Сollection\Сollection\bin\Debug\net8.0\Сollection.pdb
+C:\Users\38093\source\repos\Сollection\Сollection\obj\Debug\net8.0\Сollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38093\source\repos\Сollection\Сollection\obj\Debug\net8.0\Сollection.AssemblyInfoInputs.cache
+C:\Users\38093\source\repos\Сollection\Сollection\obj\Debug\net8.0\Сollection.AssemblyInfo.cs
+C:\Users\38093\source\repos\Сollection\Сollection\obj\Debug\net8.0\Сollection.csproj.CoreCompileInputs.cache
+C:\Users\38093\source\repos\Сollection\Сollection\obj\Debug\net8.0\Сollection.dll
+C:\Users\38093\source\repos\Сollection\Сollection\obj\Debug\net8.0\refint\Сollection.dll
+C:\Users\38093\source\repos\Сollection\Сollection\obj\Debug\net8.0\Сollection.pdb
+C:\Users\38093\source\repos\Сollection\Сollection\obj\Debug\net8.0\Сollection.genruntimeconfig.cache
+C:\Users\38093\source\repos\Сollection\Сollection\obj\Debug\net8.0\ref\Сollection.dll
