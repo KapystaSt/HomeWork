@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Work with arrays 2./1.0.0": {
+        "runtime": {
+          "Work with arrays 2..dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Work with arrays 2./1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
