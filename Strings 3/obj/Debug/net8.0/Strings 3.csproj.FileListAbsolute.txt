@@ -1,0 +1,14 @@
+C:\Users\38093\source\repos\Strings 3\bin\Debug\net8.0\Strings 3.exe
+C:\Users\38093\source\repos\Strings 3\bin\Debug\net8.0\Strings 3.deps.json
+C:\Users\38093\source\repos\Strings 3\bin\Debug\net8.0\Strings 3.runtimeconfig.json
+C:\Users\38093\source\repos\Strings 3\bin\Debug\net8.0\Strings 3.dll
+C:\Users\38093\source\repos\Strings 3\bin\Debug\net8.0\Strings 3.pdb
+C:\Users\38093\source\repos\Strings 3\obj\Debug\net8.0\Strings 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38093\source\repos\Strings 3\obj\Debug\net8.0\Strings 3.AssemblyInfoInputs.cache
+C:\Users\38093\source\repos\Strings 3\obj\Debug\net8.0\Strings 3.AssemblyInfo.cs
+C:\Users\38093\source\repos\Strings 3\obj\Debug\net8.0\Strings 3.csproj.CoreCompileInputs.cache
+C:\Users\38093\source\repos\Strings 3\obj\Debug\net8.0\Strings 3.dll
+C:\Users\38093\source\repos\Strings 3\obj\Debug\net8.0\refint\Strings 3.dll
+C:\Users\38093\source\repos\Strings 3\obj\Debug\net8.0\Strings 3.pdb
+C:\Users\38093\source\repos\Strings 3\obj\Debug\net8.0\Strings 3.genruntimeconfig.cache
+C:\Users\38093\source\repos\Strings 3\obj\Debug\net8.0\ref\Strings 3.dll
