@@ -1,0 +1,14 @@
+C:\Users\38093\source\repos\Fibonacci numbers\obj\Debug\net8.0\Fibonacci numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38093\source\repos\Fibonacci numbers\obj\Debug\net8.0\Fibonacci numbers.AssemblyInfoInputs.cache
+C:\Users\38093\source\repos\Fibonacci numbers\obj\Debug\net8.0\Fibonacci numbers.AssemblyInfo.cs
+C:\Users\38093\source\repos\Fibonacci numbers\obj\Debug\net8.0\Fibonacci numbers.csproj.CoreCompileInputs.cache
+C:\Users\38093\source\repos\Fibonacci numbers\bin\Debug\net8.0\Fibonacci numbers.exe
+C:\Users\38093\source\repos\Fibonacci numbers\bin\Debug\net8.0\Fibonacci numbers.deps.json
+C:\Users\38093\source\repos\Fibonacci numbers\bin\Debug\net8.0\Fibonacci numbers.runtimeconfig.json
+C:\Users\38093\source\repos\Fibonacci numbers\bin\Debug\net8.0\Fibonacci numbers.dll
+C:\Users\38093\source\repos\Fibonacci numbers\bin\Debug\net8.0\Fibonacci numbers.pdb
+C:\Users\38093\source\repos\Fibonacci numbers\obj\Debug\net8.0\Fibonacci numbers.dll
+C:\Users\38093\source\repos\Fibonacci numbers\obj\Debug\net8.0\refint\Fibonacci numbers.dll
+C:\Users\38093\source\repos\Fibonacci numbers\obj\Debug\net8.0\Fibonacci numbers.pdb
+C:\Users\38093\source\repos\Fibonacci numbers\obj\Debug\net8.0\Fibonacci numbers.genruntimeconfig.cache
+C:\Users\38093\source\repos\Fibonacci numbers\obj\Debug\net8.0\ref\Fibonacci numbers.dll
