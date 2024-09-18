@@ -1,0 +1,14 @@
+C:\Users\38093\source\repos\List of cases\bin\Debug\net8.0\List of cases.exe
+C:\Users\38093\source\repos\List of cases\bin\Debug\net8.0\List of cases.deps.json
+C:\Users\38093\source\repos\List of cases\bin\Debug\net8.0\List of cases.runtimeconfig.json
+C:\Users\38093\source\repos\List of cases\bin\Debug\net8.0\List of cases.dll
+C:\Users\38093\source\repos\List of cases\bin\Debug\net8.0\List of cases.pdb
+C:\Users\38093\source\repos\List of cases\obj\Debug\net8.0\List of cases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38093\source\repos\List of cases\obj\Debug\net8.0\List of cases.AssemblyInfoInputs.cache
+C:\Users\38093\source\repos\List of cases\obj\Debug\net8.0\List of cases.AssemblyInfo.cs
+C:\Users\38093\source\repos\List of cases\obj\Debug\net8.0\List of cases.csproj.CoreCompileInputs.cache
+C:\Users\38093\source\repos\List of cases\obj\Debug\net8.0\List of cases.dll
+C:\Users\38093\source\repos\List of cases\obj\Debug\net8.0\refint\List of cases.dll
+C:\Users\38093\source\repos\List of cases\obj\Debug\net8.0\List of cases.pdb
+C:\Users\38093\source\repos\List of cases\obj\Debug\net8.0\List of cases.genruntimeconfig.cache
+C:\Users\38093\source\repos\List of cases\obj\Debug\net8.0\ref\List of cases.dll
