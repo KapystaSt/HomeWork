@@ -1,0 +1,14 @@
+C:\Users\38093\source\repos\Copying files\bin\Debug\net8.0\Copying files.exe
+C:\Users\38093\source\repos\Copying files\bin\Debug\net8.0\Copying files.deps.json
+C:\Users\38093\source\repos\Copying files\bin\Debug\net8.0\Copying files.runtimeconfig.json
+C:\Users\38093\source\repos\Copying files\bin\Debug\net8.0\Copying files.dll
+C:\Users\38093\source\repos\Copying files\bin\Debug\net8.0\Copying files.pdb
+C:\Users\38093\source\repos\Copying files\obj\Debug\net8.0\Copying files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38093\source\repos\Copying files\obj\Debug\net8.0\Copying files.AssemblyInfoInputs.cache
+C:\Users\38093\source\repos\Copying files\obj\Debug\net8.0\Copying files.AssemblyInfo.cs
+C:\Users\38093\source\repos\Copying files\obj\Debug\net8.0\Copying files.csproj.CoreCompileInputs.cache
+C:\Users\38093\source\repos\Copying files\obj\Debug\net8.0\Copying files.dll
+C:\Users\38093\source\repos\Copying files\obj\Debug\net8.0\refint\Copying files.dll
+C:\Users\38093\source\repos\Copying files\obj\Debug\net8.0\Copying files.pdb
+C:\Users\38093\source\repos\Copying files\obj\Debug\net8.0\Copying files.genruntimeconfig.cache
+C:\Users\38093\source\repos\Copying files\obj\Debug\net8.0\ref\Copying files.dll
